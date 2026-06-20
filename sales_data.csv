@@ -1,0 +1,11 @@
+Order_ID,Date,Product_Name,Category,Quantity,Selling_Price,Cost_Price,Profit
+ORD001,2025-06-01,Short Kurti, Kurtis,2,399,250,149
+ORD002,2025-06-02,Summer Cotton Kurta,Kurtas,1,499,320,179
+ORD003,2025-06-03,Cotton Saree,Sarees,1,699,450,249
+ORD004,2025-06-04,Short Kurti, Kurtis,3,399,250,447
+ORD005,2025-06-05,Printed Kurta Set,Kurtas,1,599,380,219
+ORD006,2025-06-06,Cotton Saree,Sarees,2,699,450,498
+ORD007,2025-06-07,Short Kurti, Kurtis,1,399,250,149
+ORD008,2025-06-08,Summer Cotton Kurta,Kurtas,2,499,320,358
+ORD009,2025-06-09,Georgette Saree,Sarees,1,899,600,299
+ORD010,2025-06-10,Short Kurti, Kurtis,2,399,250,298
