@@ -23,3 +23,41 @@ Built with agentic AI workflows to provide real-time guidance, strategy optimiza
    ```bash
    git clone https://github.com/Yasaswini-8/Agentic-Reseller-Success-Coach.git
    cd Agentic-Reseller-Success-Coach
+Install dependenciesBashpip install -r requirements.txt
+Set up environment variablesBashcp .env.example .env
+# Add your API keys (OpenAI, etc.)
+Run the coachBashpython main.py
+
+
+📁 Project Structure
+textAgentic-Reseller-Success-Coach/
+├── agents/              # AI agent implementations
+├── workflows/           # Coaching workflows and playbooks
+├── dashboard/           # Analytics and visualization
+├── data/                # Market data and user profiles
+├── utils/               # Helper functions
+├── README.md
+└── requirements.txt
+
+🛠️ Tech Stack
+
+AI Framework: LangChain / CrewAI / AutoGen
+LLM: OpenAI GPT models (or compatible)
+Frontend: Streamlit / Gradio (for demo)
+Data: Pandas, SQLite / PostgreSQL
+Visualization: Plotly, Matplotlib
+
+
+👤 Author
+Yasaswini-8
+GitHub Profile
+Passionate about AI agents and e-commerce growth.
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to check the issues page.
+
+📄 License
+This project is licensed under the MIT License.
+
+⭐ Star this repo if you're building the future of reselling with AI!
